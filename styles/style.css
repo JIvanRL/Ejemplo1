@@ -1,0 +1,15 @@
+.tit{
+    font-size: larger;
+}
+
+.tit:hover{
+    color: orange;
+    font-size: xx-large;
+
+    opacity: 30%;
+}
+
+.btn:hover{
+    color: orange;
+    font-size: xx-large;
+}
